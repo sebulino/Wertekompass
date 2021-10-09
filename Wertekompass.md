@@ -27,7 +27,7 @@ Die Zeit des permanenten negativen Abarbeiten am politischen Konkurrenten sollte
 
 ## Inklusion
 
-Inklusion ist kein nettes PR-Buzzwort sondern elementarer und selbstverständlicher Bestandteil unserer Kommunikations-Arbeit. Die Vielfalt unserer Gesellschaft muss sich auch in der Ansprache entsprechend abbilden. Inklusive Wort- und Bildsprache sind ein Muss, kein Nice-to-Have. Videos und Homepages müssen auch für Menschen mit Behinderungen in Form von Barrierefreiheit verfügbar sein. Wenn wir nicht die Ressourcen für alle Videos haben, so sollten wenigstens die wesentlichen Botschaften in Gebärdensprache verfübar sein. In jedem Kommunikationskonzept müssen die unterschiedlichen Zielgruppen berücksichtigt werden. 
+Inklusion ist kein nettes PR-Buzzwort sondern elementarer und selbstverständlicher Bestandteil unserer Kommunikations-Arbeit. Inklusive Wort- und Bildsprache sind ein Muss, kein Nice-to-Have. Videos und Homepages sollten möglichst immer auch für Menschen mit Behinderungen in Form von Barrierefreiheit verfügbar sein. Wenn wir nicht die Ressourcen für alle Videos haben, so sollten wir anstreben, wenigstens die wesentlichen Botschaften in Gebärdensprache verfübar sein. In jedem Kommunikationskonzept müssen die unterschiedlichen Zielgruppen berücksichtigt werden. 
 
 ## Datenschutz
 
