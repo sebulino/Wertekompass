@@ -6,7 +6,6 @@ description: inspiriert vom Public Arena Playbook von Juri Schnöller
 
 * Respekt
 * Vision
-* Inklusion
 * Datenschutz
 * Ehrlichkeit
 * Empathie
@@ -24,10 +23,6 @@ Wir implementieren nicht nur Netiquette auf unseren Plattformen und Kanälen, so
 Es geht darum eine Vision zu konstruieren, die unsere eigenen Elemente in den Vordergrund stellt, kein Negative Campaigning. In der Öffentlichkeit wird jeden Tag um verschiedene Konzepte und Vorstellungen gerungen. Dabei sind wir uns immer bewusst, dass negative Kommunikation oder destruktives Campaigning vielleicht einen starken kurzfristigen Mobilisierungseffekt haben, sind aber auf die mittelfristige Sicht sowohl für die tonalität als auch für die Steuerungsfähigkeit der eigenen Community Gift. Polarisierung gehört zum Wettbewerb, Spaltung aber nicht. Situativ mag es sinnvoll sein, aber generell gilt: Nur wenn wir mit Haltung und Überzeugung für unsere eigenen Werte streiten, und aus Betroffenen Beteiligte machen, kann auch eine Grundstimmung entstehen, die konträr zum Zynismus auf Twitter oder anderen Plattformen ist. 
 
 Die Zeit des permanenten negativen Abarbeiten am politischen Konkurrenten sollte vorbei sein. Es ist Zeit für einen neuen Politikstil, mit einem postiiven, eigenen Gestaltungsanspruch. 
-
-## Inklusion
-
-Inklusion ist kein nettes PR-Buzzwort sondern elementarer und selbstverständlicher Bestandteil unserer Kommunikations-Arbeit. Inklusive Wort- und Bildsprache sind ein Muss, kein Nice-to-Have. Videos und Homepages sollten möglichst immer auch für Menschen mit Behinderungen in Form von Barrierefreiheit verfügbar sein. Wenn wir nicht die Ressourcen für alle Videos haben, so sollten wir anstreben, wenigstens die wesentlichen Botschaften in Gebärdensprache verfübar sein. In jedem Kommunikationskonzept müssen die unterschiedlichen Zielgruppen berücksichtigt werden. 
 
 ## Datenschutz
 
